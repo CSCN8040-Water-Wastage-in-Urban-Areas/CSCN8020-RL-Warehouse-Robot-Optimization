@@ -118,11 +118,4 @@ Our integration leverages the Gym interface provided by RWARE:
 These findings and metrics are detailed further in our final report.
 
 ---
-## Usage
-
-### Prerequisites
-- Python 3.7+  
-- [Gymnasium](https://gymnasium.farama.org/)  
-- [PyTorch](https://pytorch.org/)  
-- Other dependencies listed in `requirements.txt`
 
